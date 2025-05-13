@@ -3,3 +3,4 @@
 #### This is a H4 header.
 ###### This is the last header I can make - an H6.
 Learning Headers!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
